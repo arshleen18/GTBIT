@@ -1,4 +1,4 @@
-#WAP to find the sum of a geometric series
+/*WAP to find the sum of a geometric series*/
 
 #include<stdio.h>
 #include<math.h>
