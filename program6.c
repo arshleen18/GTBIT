@@ -46,7 +46,7 @@ int main()
 		}
 		str1[i] = '\0';
 
-		printf("\nString after the Concatenate = %s", str1);
+		printf("\nString after the Concatenation = %s", str1);
 		break;
 
 
