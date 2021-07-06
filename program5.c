@@ -1,5 +1,5 @@
-#Write a menu driven program for matrices operation on one or two matrices
-/*Addition of two matrices
+/*Write a menu driven program for matrices operation on one or two matrices
+Addition of two matrices
 Subtraction of two matrices
 Finding upper and lower triangular matrices
 Transpose of matrix
