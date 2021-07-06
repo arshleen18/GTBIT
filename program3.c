@@ -1,4 +1,4 @@
-#Write a recursive program for tower of Hanoi problem
+/*Write a recursive program for the tower of Hanoi problem*/
 
 #include<stdio.h>
 void TOH(int n, int A, int B, int C ) 
