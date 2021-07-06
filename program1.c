@@ -1,4 +1,4 @@
-#WAP to find divisor or factorial of a given number
+/*WAP to find divisor or factorial of a given number*/
 
 #include<stdio.h>
 #include<stdlib.h>
