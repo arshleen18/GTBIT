@@ -1,5 +1,5 @@
 /*Write a program to perform the following operations without using string defined functions
-1. to find the length of the string
+1. To find the length of the string
 2. To concatenate two string
 3. To find the reverse of a string
 4. To copy one string to another string*/
