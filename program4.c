@@ -1,4 +1,4 @@
-#write a recursive program to print the first m Fibonacci number
+/*write a recursive program to print the first m Fibonacci number*/
 
 #include<stdio.h>
 #include<conio.h>
